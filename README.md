@@ -16,7 +16,7 @@
   
   - Approximate play time (3 rounds, no accessibility time): 0.5 to 2.5 hours
 
-- **Number of Players:** `6 ± 4`
+- **Number of Players:** `6 ± 3`
 
 - **Credits:**
   
@@ -35,6 +35,8 @@
 - **Components:**
   
   - **smartphone/tablet/laptop** - 1 for each player
+  
+  - **a chat room** - to share act materials if needed
   
   - **amusing materials** - what each person wants to share
   
