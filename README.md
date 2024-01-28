@@ -1,6 +1,8 @@
-# King's Court: Jest or Share
+<p align="center"><img src="https://github.com/cybardev/ggj-2024/assets/50134239/0f0905ee-d9e7-4caf-a7f8-b95bdc715d91" height="128px" width="128px" /></p>
 
-## Spread joy and become king for a day!
+<h1 align="center">King's Court: Jest or Share</h1>
+
+<h2 align="center">Spread joy and become king for a day!</h2>
 
 -   **Authors:**
 
